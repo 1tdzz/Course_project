@@ -1,0 +1,11 @@
+10
+inf inf 68 47 inf 22 89 inf inf inf
+50 inf inf 55 92 inf 54 70 69 64
+inf 82 inf 45 60 93 49 59 56 76
+inf 12 33 inf 76 inf 16 19 43 75
+inf 47 inf 26 inf 71 58 25 65 78
+15 91 72 95 inf inf 37 97 inf 58
+inf 38 13 inf 73 inf inf 47 18 45
+inf 60 43 20 99 22 inf inf 57 19
+25 98 39 inf 27 46 10 37 inf 87
+49 86 45 62 inf 31 inf 86 54 inf

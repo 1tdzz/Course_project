@@ -1,0 +1,19 @@
+18
+inf 41 inf 18 57 inf 97 inf inf 35 inf inf 32 inf inf inf inf inf
+74 inf 72 inf 11 13 inf 46 inf 70 82 47 71 inf inf inf inf inf
+inf 10 inf 55 inf inf inf 75 78 inf 66 68 19 inf inf 77 91 inf
+inf 10 inf inf 70 inf inf 11 inf 63 72 inf 74 inf inf inf inf 31
+inf 64 29 inf inf 37 inf inf inf inf inf 71 15 53 23 19 84 76
+inf inf inf 96 inf inf inf 69 inf inf inf 13 inf 53 inf 36 59 inf
+57 inf inf inf 54 56 inf inf inf inf 56 14 49 28 inf inf inf inf
+inf 86 44 80 43 inf 48 inf inf 87 inf 51 74 39 65 inf inf 72
+inf inf inf inf 28 86 98 inf inf inf inf 71 71 inf inf 96 inf inf
+76 12 inf inf 49 inf inf inf 24 inf inf inf 35 50 83 inf inf inf
+inf inf 96 65 inf inf 23 inf inf inf inf inf inf 20 inf inf inf inf
+22 52 inf 25 49 11 inf inf 74 80 55 inf 96 70 inf 26 inf inf
+87 inf 69 inf inf inf 51 39 84 15 inf inf inf 53 67 inf inf inf
+inf 58 inf 73 inf inf 44 48 inf inf inf inf inf inf 89 18 inf 71
+inf inf 73 inf 56 inf 18 inf inf inf inf inf 30 inf inf inf 93 44
+inf inf 70 inf inf inf inf inf inf 75 51 inf inf 58 inf inf 50 inf
+inf inf 75 inf 90 inf inf inf 64 inf 99 31 81 inf 25 inf inf 92
+inf inf inf inf 83 inf inf inf inf inf 81 inf 53 94 84 inf 19 inf
